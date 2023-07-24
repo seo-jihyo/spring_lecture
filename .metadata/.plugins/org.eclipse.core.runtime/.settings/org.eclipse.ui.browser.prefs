@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/kosa/|*|http\://localhost\:8080/kosa/WEB-INF/classes/com/edu/kosa/HomeController.java|*|file\:/C\:/daebo_th2/9_Spring_myBatis/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1690161291417/index.html|*|file\:/C\:/daebo_th2/program_util/sts-bundle/sts-3.9.18.RELEASE/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.18.202109131132-RELEASE/resources/welcome/index.html|*|
