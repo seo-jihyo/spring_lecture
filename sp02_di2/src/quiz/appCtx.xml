@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<bean id="kor" class="quiz.IMessageImpl">
+	<constructor-arg value="안녕하세요"/><!-- 생성자 -->
+	</bean>
+	
+	<bean id="eng" class="quiz.IMessageImpl2">
+	<property name="hello" value="HELLO"></property><!--name은 setname value는 실제 저장할 값 -->
+	</bean>
+
+</beans>

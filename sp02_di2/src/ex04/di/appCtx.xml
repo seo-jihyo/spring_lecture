@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="record" class="ex04.DI.IRecordImpl"><!-- default 생성자가 있어야 함 -->
+	<!-- <constructor-arg><value>100</value></constructor-arg>
+	<constructor-arg value="88"/>
+	<constructor-arg value="77"/> -->
+	
+	<constructor-arg index="2" value="55" type="int"/>
+	<constructor-arg index="0" value="23"></constructor-arg>
+	<constructor-arg index="1" value="98"></constructor-arg>
+	</bean><!-- spring의 객체 생성 -->
+	
+	<bean class="ex04.DI.IRecordViewImpl" id="view">
+	<property name="record" ref="record"/><!-- name: setmethod의 이름 -->
+	</bean>
+</beans>
