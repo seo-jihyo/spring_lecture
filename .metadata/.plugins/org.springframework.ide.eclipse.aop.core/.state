@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="sp01_spring"/>
+<aop-project name="sp_03_di"/>
 <aop-project name="sp02_di"/>
 <aop-project name="sp02_di2"/>
 </aop-reference-model>

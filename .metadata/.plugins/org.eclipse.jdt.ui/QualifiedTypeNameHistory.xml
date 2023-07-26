@@ -7,13 +7,23 @@
     <fullyQualifiedTypeName name="ex02.nonDI.NewRecordView"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.ReceiverTypeData"/>
     <fullyQualifiedTypeName name="ex02.nonDI.NewRecord"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="ex03.nonDI.IRecordImpl"/>
     <fullyQualifiedTypeName name="ex03.nonDI.IRecordViewImpl"/>
     <fullyQualifiedTypeName name="ex04.DI.IRecordViewImpl"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="quiz.IMessageImpl"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="quiz2.IMessage"/>
+    <fullyQualifiedTypeName name="quiz2.IMessageImplKor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="ex05.di.MemberDTO"/>
+    <fullyQualifiedTypeName name="ex05.di.MemberDAO"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="ex01.di.Player"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.wiring.ClassNameBeanWiringInfoResolver"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

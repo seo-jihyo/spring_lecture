@@ -1,8 +1,8 @@
 eclipse.preferences.version=1
 org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=C\:/daebo_th2/program_util/sts-bundle/sts-3.9.14.RELEASE/plugins/org.aspectj.runtime_1.9.6.202007241909.jar
 org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/daebo_th2/program_util/sts-bundle/sts-3.9.14.RELEASE/
-org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk-17.0.6.10-hotspot/lib/jrt-fs.jar
-org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk-17.0.6.10-hotspot/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk-11/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk-11/lib/src.zip
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/daebo_th2/program_util/sts-bundle/sts-3.9.14.RELEASE/plugins/org.junit_4.13.0.v20200204-1500.jar
 org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/KOSA/.m2/repository

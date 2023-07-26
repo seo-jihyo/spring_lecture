@@ -6,6 +6,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="sp_03_di"/>
 			<item value="ex02_di3"/>
 			<item value="sp02_di2"/>
 			<item value="sp02_di"/>
@@ -13,6 +14,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="sp_03_di"/>
 			<item value="ex02_di3"/>
 			<item value="sp02_di2"/>
 			<item value="sp02_di"/>

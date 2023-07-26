@@ -8,10 +8,10 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 	
 	
-	<bean id="vo" class="ex05.di.MemberDTO" c:name="박태환" c:age="20" c:message="힘내요"/>
-	<bean id="dao" class="ex05.di.MemberDAO" p:dto-ref="vo"/>
+	<bean id="vo" class="ex05.di.MemberDTO" c:name="박태환22" c:age="20" c:message="힘내요"/>
+	<bean id="dao"  name = "dto xyz abc aa" class="ex05.di.MemberDAO" p:dto-ref="vo"/>
 	
-	<!-- ==========================^ 같은 방법 ^============================== -->
+	<!-- ==========================^ 같은 방법 ^====================== ======== -->
 	<!--  c -->
 	<!--  <bean id="vo" class="ex05.di.MemberDTO">
 		<constructor-arg name="age" value="11"/>

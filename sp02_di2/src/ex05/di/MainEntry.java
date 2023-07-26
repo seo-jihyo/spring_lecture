@@ -8,7 +8,7 @@ public class MainEntry {
 		ApplicationContext ctx = new ClassPathXmlApplicationContext("ex05/di/memberCtx.xml");
 		
 		MemberDTO dto = ctx.getBean("vo", MemberDTO.class);
-		MemberDAO dao = (MemberDAO)ctx.getBean("dao");
+		MemberDAO dao = (MemberDAO)ctx.getBean("xyz");
 		
 		dao.insert();
 				
