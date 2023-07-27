@@ -3062,3 +3062,955 @@ Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to tra
 2023-07-26 16:23:23,682 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-07-26 16:23:23,682 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
 2023-07-26 16:23:23,683 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-26 16:23:23,683 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:04:54,374 [Worker-244: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:04:54,376 [Worker-244: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:04:54,377 [Worker-244: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:04:54,378 [Worker-244: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:05:27,013 [Worker-239: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:05:27,013 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:05:27,014 [Worker-239: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:05:27,015 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:05:42,500 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:05:42,501 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:05:42,502 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:05:42,502 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:06:50,298 [Worker-246: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:06:50,299 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:06:50,300 [Worker-246: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:06:50,300 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:08:30,671 [Worker-239: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:08:30,672 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:08:30,673 [Worker-239: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:08:30,673 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:08:50,671 [Worker-245: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:08:50,673 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:08:50,673 [Worker-245: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:08:50,674 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:09:51,402 [Worker-239: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:09:51,402 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:09:51,403 [Worker-239: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:09:51,403 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:10:04,565 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:04,566 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:10:04,567 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:04,568 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:10:19,594 [Worker-244: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:19,594 [Worker-244: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\main\resources
+2023-07-27 09:10:19,595 [Worker-244: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:19,596 [Worker-244: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp_03_di\src\test\resources
+2023-07-27 09:10:45,909 [Worker-245: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp_03_di:sp_03_di:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\pom.xml.
+2023-07-27 09:10:46,028 [Worker-245: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:46,029 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:10:46,030 [Worker-245: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:46,030 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:10:47,507 [Worker-249: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:47,508 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:10:47,509 [Worker-249: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:10:47,510 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:11:00,440 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:11:00,441 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:11:00,442 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:11:00,442 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:11:47,181 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:11:47,182 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:11:47,182 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:11:47,182 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:23:48,985 [Worker-253: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:23:48,986 [Worker-253: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:23:48,987 [Worker-253: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:23:48,987 [Worker-253: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:24:51,406 [Worker-256: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:24:51,406 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:24:51,407 [Worker-256: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:24:51,407 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:26:24,782 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:26:24,783 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:26:24,784 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:26:24,784 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:26:51,251 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:26:51,251 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:26:51,251 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:26:51,251 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:27:08,883 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:27:08,883 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:27:08,885 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:27:08,885 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:27:25,058 [Worker-254: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:27:25,058 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:27:25,058 [Worker-254: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:27:25,058 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:30:19,523 [Worker-259: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:30:19,523 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:30:19,524 [Worker-259: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:30:19,524 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:34:02,755 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:34:02,756 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:34:02,756 [Worker-257: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:34:02,757 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:36:29,667 [Worker-262: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:36:29,668 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:36:29,669 [Worker-262: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:36:29,670 [Worker-262: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:36:49,404 [Worker-273: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:36:49,405 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:36:49,405 [Worker-273: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:36:49,406 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:39:17,692 [Worker-271: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:39:17,692 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:39:17,693 [Worker-271: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:39:17,693 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:39:38,336 [Worker-271: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:39:38,337 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:39:38,338 [Worker-271: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:39:38,338 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:45:02,668 [Worker-276: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:45:02,669 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:45:02,669 [Worker-276: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:45:02,670 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:45:48,867 [Worker-277: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:45:48,867 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:45:48,868 [Worker-277: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:45:48,868 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 09:50:48,321 [Worker-279: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:50:48,321 [Worker-279: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 09:50:48,322 [Worker-279: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 09:50:48,322 [Worker-279: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 10:13:28,512 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:13:28,513 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 10:13:28,513 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:13:28,514 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 10:13:51,684 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:13:51,685 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 10:13:51,686 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:13:51,687 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 10:13:59,696 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:13:59,697 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\main\resources
+2023-07-27 10:13:59,697 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:13:59,698 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp03_di\src\test\resources
+2023-07-27 10:15:13,609 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp04_annotation:sp04_annotation:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\pom.xml.
+2023-07-27 10:15:13,766 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp04_annotation/src
+2023-07-27 10:15:13,767 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sp04_annotation/src/test/java because it overlaps with /sp04_annotation/src
+2023-07-27 10:15:13,825 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-27 10:15:13,846 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp04_annotation:sp04_annotation:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\pom.xml.
+2023-07-27 10:15:13,892 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp04_annotation/src
+2023-07-27 10:15:13,892 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sp04_annotation/src/test/java because it overlaps with /sp04_annotation/src
+2023-07-27 10:15:13,905 [Worker-288: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-27 10:15:14,353 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:15:14,354 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:15:14,354 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:15:14,355 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:15:28,651 [Worker-289: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp04_annotation:sp04_annotation:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\pom.xml.
+2023-07-27 10:15:28,689 [Worker-289: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:15:28,690 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:15:28,690 [Worker-289: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:15:28,690 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:16:14,041 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:14,041 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:16:14,042 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:14,042 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:16:29,143 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:29,144 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:16:29,145 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:29,146 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:16:51,718 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:51,718 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:16:51,719 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:51,720 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:16:59,787 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:59,787 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:16:59,788 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:16:59,788 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:17:15,607 [Worker-289: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:17:15,608 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:17:15,610 [Worker-289: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:17:15,610 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:17:23,763 [Worker-284: Building Project sp04_annotation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:17:23,763 [Worker-284: Building Project sp04_annotation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:17:23,764 [Worker-284: Building Project sp04_annotation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:17:23,765 [Worker-284: Building Project sp04_annotation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:18:05,611 [Worker-289: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:18:05,612 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:18:05,612 [Worker-289: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:18:05,613 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:18:23,408 [Worker-290: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:18:23,409 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:18:23,409 [Worker-290: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:18:23,410 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:19:53,371 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:19:53,373 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:19:53,373 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:19:53,373 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:22:34,797 [Worker-290: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:34,798 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:22:34,798 [Worker-290: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:34,799 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:22:42,505 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:42,506 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:22:42,506 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:42,506 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:22:52,571 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:52,572 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:22:52,572 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:52,572 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:22:54,827 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:54,828 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:22:54,828 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:22:54,829 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:23:37,198 [Worker-290: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:23:37,199 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:23:37,200 [Worker-290: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:23:37,200 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:24:00,754 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:24:00,755 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:24:00,755 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:24:00,756 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:25:37,669 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:25:37,670 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:25:37,670 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:25:37,671 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:25:53,520 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:25:53,520 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:25:53,521 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:25:53,521 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:26:26,359 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:26:26,360 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:26:26,360 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:26:26,361 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:26:49,435 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:26:49,435 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:26:49,436 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:26:49,436 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:27:49,736 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:27:49,737 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:27:49,738 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:27:49,738 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:27:53,821 [Worker-291: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:27:53,822 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:27:53,823 [Worker-291: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:27:53,823 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:29:05,523 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:29:05,523 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:29:05,524 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:29:05,525 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:29:12,282 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:29:12,283 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:29:12,283 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:29:12,284 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:29:37,138 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:29:37,138 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:29:37,139 [Worker-287: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:29:37,139 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:30:36,330 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:30:36,331 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:30:36,331 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:30:36,332 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:31:41,632 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:31:41,633 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:31:41,633 [Worker-286: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:31:41,634 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:31:43,751 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:31:43,751 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:31:43,751 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:31:43,752 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:31:55,211 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:31:55,211 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:31:55,212 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:31:55,212 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:33:25,614 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:33:25,615 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:33:25,615 [Worker-284: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:33:25,616 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:34:05,522 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:34:05,522 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:34:05,524 [Worker-282: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:34:05,524 [Worker-282: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:34:30,753 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:34:30,753 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:34:30,754 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:34:30,754 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:36:38,649 [Worker-292: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:36:38,650 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:36:38,651 [Worker-292: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:36:38,651 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:40:21,871 [Worker-294: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:40:21,872 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:40:21,872 [Worker-294: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:40:21,873 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:40:36,975 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:40:36,976 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:40:36,977 [Worker-288: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:40:36,977 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:43:35,830 [Worker-296: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:43:35,830 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:43:35,831 [Worker-296: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:43:35,831 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 10:43:47,923 [Worker-298: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:43:47,924 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 10:43:47,924 [Worker-298: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 10:43:47,925 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:09:05,706 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:09:05,707 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:09:05,707 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:09:05,708 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:11:21,801 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:11:21,802 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:11:21,803 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:11:21,803 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:11:30,236 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:11:30,236 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:11:30,236 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:11:30,237 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:12:26,076 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:12:26,077 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:12:26,078 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:12:26,078 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:12:28,553 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:12:28,554 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:12:28,555 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:12:28,555 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:12:32,604 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:12:32,605 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:12:32,605 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:12:32,606 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:13:35,894 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:13:35,895 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:13:35,895 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:13:35,896 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:15:18,020 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:15:18,020 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:15:18,021 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:15:18,021 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:15:54,423 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:15:54,424 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:15:54,424 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:15:54,425 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:16:10,283 [Worker-310: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:16:10,284 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:16:10,284 [Worker-310: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:16:10,285 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:19:19,818 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:19:19,818 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:19:19,819 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:19:19,820 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:19:28,353 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:19:28,353 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:19:28,354 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:19:28,354 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:20:25,199 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:25,200 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:20:25,200 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:25,201 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:20:35,560 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:35,561 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:20:35,561 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:35,562 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:20:41,750 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:41,751 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:20:41,751 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:41,751 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:20:43,291 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:43,292 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:20:43,292 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:20:43,292 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:21:39,661 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:21:39,662 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:21:39,663 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:21:39,663 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:21:57,868 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:21:57,868 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:21:57,869 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:21:57,869 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:22:17,598 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:22:17,598 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:22:17,599 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:22:17,599 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:23:19,536 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:23:19,537 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:23:19,537 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:23:19,538 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:24:08,719 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:24:08,720 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:24:08,720 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:24:08,722 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:24:16,294 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:24:16,295 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:24:16,295 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:24:16,296 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:24:56,978 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:24:56,978 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:24:56,979 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:24:56,979 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:25:10,564 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:25:10,565 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:25:10,566 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:25:10,566 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:25:37,774 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:25:37,775 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:25:37,775 [Worker-307: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:25:37,776 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:25:55,334 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:25:55,335 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:25:55,335 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:25:55,336 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:26:03,731 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:26:03,732 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:26:03,732 [Worker-311: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:26:03,733 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:26:39,624 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:26:39,624 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:26:39,625 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:26:39,626 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:28:09,957 [Worker-310: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:09,959 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:28:09,960 [Worker-310: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:09,960 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:28:27,731 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:27,731 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:28:27,732 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:27,732 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:28:46,675 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:46,675 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:28:46,676 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:46,677 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:28:50,633 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:50,634 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:28:50,635 [Worker-309: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:28:50,636 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:30:15,687 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:30:15,688 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:30:15,688 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:30:15,689 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:31:07,506 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:31:07,507 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:31:07,508 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:31:07,508 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:31:27,491 [Worker-310: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:31:27,493 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:31:27,494 [Worker-310: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:31:27,494 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:31:50,839 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:31:50,840 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:31:50,840 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:31:50,841 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:33:04,850 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:33:04,850 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:33:04,851 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:33:04,851 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:36:00,515 [Worker-314: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp04_annotation:sp04_annotation:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\pom.xml.
+2023-07-27 11:36:00,758 [Worker-314: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:00,759 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:36:00,759 [Worker-314: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:00,760 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:36:02,001 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:02,001 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:36:02,002 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:02,002 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:36:04,266 [Worker-313: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp04_annotation:sp04_annotation:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\pom.xml.
+2023-07-27 11:36:04,303 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:04,304 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:36:04,304 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:04,305 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:36:23,959 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:23,960 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:36:23,960 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:23,961 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:36:52,389 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:52,390 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:36:52,390 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:36:52,390 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:38:12,661 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:38:12,662 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:38:12,662 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:38:12,663 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:38:27,344 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:38:27,345 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:38:27,345 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:38:27,346 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:39:48,782 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:39:48,782 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:39:48,783 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:39:48,783 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:41:34,345 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:41:34,346 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:41:34,347 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:41:34,347 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:42:22,895 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:42:22,895 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:42:22,896 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:42:22,896 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:43:08,348 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:43:08,349 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:43:08,349 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:43:08,349 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:43:29,428 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:43:29,429 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:43:29,429 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:43:29,430 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:44:08,914 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:44:08,914 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:44:08,915 [Worker-305: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:44:08,915 [Worker-305: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:45:00,637 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:45:00,639 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:45:00,639 [Worker-313: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:45:00,640 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:47:01,570 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:01,571 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:47:01,571 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:01,571 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:47:22,944 [Worker-314: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:22,945 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:47:22,945 [Worker-314: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:22,947 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:47:26,484 [Worker-316: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:26,485 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:47:26,485 [Worker-316: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:26,485 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:47:37,035 [Worker-316: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:37,035 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:47:37,036 [Worker-316: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:47:37,036 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:48:19,782 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:48:19,782 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:48:19,783 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:48:19,783 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:49:15,204 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:49:15,204 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:49:15,205 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:49:15,205 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:50:18,793 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:50:18,794 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:50:18,794 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:50:18,794 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:52:06,034 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:06,035 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:52:06,035 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:06,035 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:52:11,727 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:11,728 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:52:11,729 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:11,729 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:52:46,692 [Worker-316: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:46,692 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:52:46,693 [Worker-316: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:46,693 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:52:53,546 [Worker-314: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:53,546 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:52:53,547 [Worker-314: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:52:53,547 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:53:03,079 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:53:03,080 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:53:03,080 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:53:03,081 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:54:39,359 [Worker-318: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:54:39,360 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:54:39,361 [Worker-318: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:54:39,361 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:55:34,851 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:55:34,852 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:55:34,853 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:55:34,853 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:56:44,873 [Worker-319: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:56:44,873 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:56:44,874 [Worker-319: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:56:44,875 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:57:03,290 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:57:03,290 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:57:03,291 [Worker-315: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:57:03,291 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 11:58:02,499 [Worker-317: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:58:02,500 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 11:58:02,500 [Worker-317: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 11:58:02,500 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 12:00:41,855 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 12:00:41,856 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 12:00:41,856 [Worker-312: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 12:00:41,856 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 12:01:06,842 [Worker-319: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 12:01:06,844 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 12:01:06,844 [Worker-319: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 12:01:06,845 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 12:08:12,890 [Worker-322: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 12:08:12,891 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 12:08:12,892 [Worker-322: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 12:08:12,892 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:05:01,853 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:05:01,854 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:05:01,855 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:05:01,855 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:08:51,229 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:08:51,230 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:08:51,231 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:08:51,231 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:08:56,311 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:08:56,311 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:08:56,312 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:08:56,312 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:09:19,870 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:09:19,871 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:09:19,872 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:09:19,872 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:09:39,625 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:09:39,626 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:09:39,626 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:09:39,627 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:09:52,130 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:09:52,131 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:09:52,131 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:09:52,132 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:11:34,596 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:11:34,596 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:11:34,597 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:11:34,598 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:14:37,263 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:14:37,264 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:14:37,265 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:14:37,265 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:16:51,666 [Worker-354: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp04_annotation:sp04_annotation:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\pom.xml.
+2023-07-27 14:16:52,679 [Worker-354: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.pom
+2023-07-27 14:16:52,691 [Worker-354: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.pom
+2023-07-27 14:16:52,701 [Worker-354: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2023-07-27 14:16:52,710 [Worker-354: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2023-07-27 14:16:52,725 [Worker-354: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar
+2023-07-27 14:16:52,737 [Worker-354: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar
+2023-07-27 14:16:52,842 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:16:52,843 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:16:52,844 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:16:52,844 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:16:53,930 [Worker-361: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2-sources.jar
+2023-07-27 14:16:53,939 [Worker-361: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2-sources.jar
+2023-07-27 14:16:54,002 [Worker-361: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.annotation:javax.annotation-api:1.3.2
+2023-07-27 14:16:54,231 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:16:54,232 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:16:54,232 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:16:54,233 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:16:56,449 [Worker-354: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp04_annotation:sp04_annotation:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\pom.xml.
+2023-07-27 14:16:56,486 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:16:56,486 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:16:56,486 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:16:56,487 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:17:36,501 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:17:36,502 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:17:36,502 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:17:36,503 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:19:51,332 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:19:51,333 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:19:51,334 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:19:51,334 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:19:56,362 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:19:56,362 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:19:56,363 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:19:56,363 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:20:04,191 [Worker-361: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:20:04,192 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:20:04,192 [Worker-361: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:20:04,192 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:20:43,098 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:20:43,099 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:20:43,099 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:20:43,100 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:21:01,355 [Worker-361: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:21:01,356 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:21:01,357 [Worker-361: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:21:01,358 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:21:39,037 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:21:39,037 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:21:39,038 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:21:39,038 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:21:45,526 [Worker-359: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:21:45,526 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:21:45,527 [Worker-359: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:21:45,527 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:22:12,277 [Worker-359: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:12,277 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:22:12,278 [Worker-359: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:12,278 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:22:27,412 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:27,412 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:22:27,413 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:27,413 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:22:43,473 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:43,474 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:22:43,475 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:43,475 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:22:48,508 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:48,509 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:22:48,510 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:22:48,510 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:23:32,340 [Worker-359: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:23:32,341 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:23:32,341 [Worker-359: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:23:32,342 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:23:38,485 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:23:38,486 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:23:38,486 [Worker-356: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:23:38,487 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:24:21,482 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:24:21,483 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:24:21,483 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:24:21,484 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:25:17,433 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:25:17,434 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:25:17,434 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:25:17,435 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:26:42,215 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:26:42,215 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:26:42,216 [Worker-354: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:26:42,217 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:31:44,437 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:31:44,438 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:31:44,439 [Worker-360: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:31:44,439 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:36:40,856 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:36:40,856 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:36:40,857 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:36:40,857 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:36:51,771 [Worker-366: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:36:51,771 [Worker-366: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:36:51,772 [Worker-366: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:36:51,772 [Worker-366: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:37:07,934 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:37:07,935 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:37:07,936 [Worker-358: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:37:07,936 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:37:21,032 [Worker-365: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:37:21,033 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:37:21,033 [Worker-365: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:37:21,034 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:37:53,259 [Worker-367: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:37:53,260 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:37:53,261 [Worker-367: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:37:53,262 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 14:38:18,297 [Worker-367: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:38:18,297 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 14:38:18,298 [Worker-367: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 14:38:18,298 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:05:45,559 [Worker-370: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:05:45,559 [Worker-370: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:05:45,560 [Worker-370: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:05:45,561 [Worker-370: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:13:35,249 [Worker-374: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:13:35,250 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:13:35,250 [Worker-374: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:13:35,251 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:14:04,542 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:14:04,543 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:14:04,543 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:14:04,544 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:15:18,388 [Worker-370: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:15:18,389 [Worker-370: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:15:18,389 [Worker-370: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:15:18,390 [Worker-370: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:15:38,158 [Worker-368: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:15:38,159 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:15:38,160 [Worker-368: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:15:38,160 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:17:49,586 [Worker-368: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:17:49,586 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:17:49,587 [Worker-368: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:17:49,588 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:17:57,170 [Worker-374: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:17:57,170 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:17:57,170 [Worker-374: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:17:57,171 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:18:29,489 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:18:29,489 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:18:29,489 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:18:29,491 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:22:29,161 [Worker-375: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:22:29,161 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:22:29,163 [Worker-375: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:22:29,163 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:22:36,006 [Worker-374: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:22:36,006 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:22:36,007 [Worker-374: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:22:36,007 [Worker-374: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:25:25,094 [Worker-368: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:25:25,094 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:25:25,095 [Worker-368: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:25:25,095 [Worker-368: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:25:31,360 [Worker-373: Launching MainEntry (13)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:25:31,361 [Worker-373: Launching MainEntry (13)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:25:31,362 [Worker-373: Launching MainEntry (13)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:25:31,362 [Worker-373: Launching MainEntry (13)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:26:05,237 [Worker-370: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:26:05,238 [Worker-370: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:26:05,238 [Worker-370: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:26:05,239 [Worker-370: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:26:23,180 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:26:23,181 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:26:23,181 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:26:23,181 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:29:02,678 [Worker-375: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:29:02,679 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:29:02,679 [Worker-375: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:29:02,680 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:29:58,039 [Worker-378: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:29:58,041 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:29:58,041 [Worker-378: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:29:58,041 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:31:25,584 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:31:25,585 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:31:25,586 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:31:25,586 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:40:31,815 [Worker-381: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:40:31,816 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:40:31,816 [Worker-381: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:40:31,817 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:40:42,300 [Worker-379: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:40:42,301 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:40:42,302 [Worker-379: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:40:42,302 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:40:47,711 [Worker-383: Launching MainEntry (13)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:40:47,712 [Worker-383: Launching MainEntry (13)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:40:47,713 [Worker-383: Launching MainEntry (13)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:40:47,714 [Worker-383: Launching MainEntry (13)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:41:27,932 [Worker-382: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:41:27,933 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:41:27,933 [Worker-382: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:41:27,934 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:41:47,688 [Worker-382: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:41:47,688 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:41:47,689 [Worker-382: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:41:47,689 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:42:18,602 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:42:18,603 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:42:18,604 [Worker-373: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:42:18,604 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:45:27,020 [Worker-379: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:45:27,021 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:45:27,022 [Worker-379: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:45:27,022 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:46:13,646 [Worker-380: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:46:13,647 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:46:13,647 [Worker-380: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:46:13,648 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:48:03,097 [Worker-385: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:48:03,098 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:48:03,099 [Worker-385: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:48:03,099 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:48:28,273 [Worker-386: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:48:28,273 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:48:28,274 [Worker-386: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:48:28,274 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 15:49:27,961 [Worker-387: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:49:27,961 [Worker-387: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 15:49:27,963 [Worker-387: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 15:49:27,964 [Worker-387: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:08:23,287 [Worker-391: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:08:23,288 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:08:23,288 [Worker-391: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:08:23,289 [Worker-391: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:11:10,484 [Worker-397: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:11:10,485 [Worker-397: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:11:10,486 [Worker-397: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:11:10,487 [Worker-397: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:13:54,650 [Worker-397: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:13:54,651 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:13:54,652 [Worker-397: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:13:54,652 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:15:33,066 [Worker-397: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:15:33,066 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:15:33,067 [Worker-397: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:15:33,067 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:15:40,020 [Worker-397: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:15:40,020 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:15:40,021 [Worker-397: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:15:40,021 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:15:50,725 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:15:50,725 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:15:50,726 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:15:50,726 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:16:22,119 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:16:22,120 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:16:22,120 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:16:22,121 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:17:08,506 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:17:08,507 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:17:08,507 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:17:08,508 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:17:24,437 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:17:24,438 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:17:24,438 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:17:24,439 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:18:02,492 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:18:02,493 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:18:02,493 [Worker-392: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:18:02,494 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 16:18:13,254 [Worker-389: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:18:13,255 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\main\resources
+2023-07-27 16:18:13,255 [Worker-389: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 16:18:13,256 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp04_annotation\src\test\resources
+2023-07-27 17:07:43,543 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp05_aop:sp05_aop:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\pom.xml.
+2023-07-27 17:07:43,762 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp05_aop/src
+2023-07-27 17:07:43,763 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sp05_aop/src/test/java because it overlaps with /sp05_aop/src
+2023-07-27 17:07:43,803 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-27 17:07:43,832 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp05_aop:sp05_aop:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\pom.xml.
+2023-07-27 17:07:43,873 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp05_aop/src
+2023-07-27 17:07:43,873 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sp05_aop/src/test/java because it overlaps with /sp05_aop/src
+2023-07-27 17:07:43,886 [Worker-412: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-27 17:07:44,305 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:07:44,306 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:07:44,307 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:07:44,307 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:07:48,420 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:07:48,422 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:07:48,422 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:07:48,423 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:08:02,816 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:08:02,817 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:08:02,817 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:08:02,818 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:08:10,316 [Worker-389: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:08:10,317 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:08:10,317 [Worker-389: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:08:10,318 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:08:57,121 [Worker-410: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:08:57,121 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:08:57,122 [Worker-410: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:08:57,122 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:16:30,730 [Worker-413: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:16:30,731 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:16:30,732 [Worker-413: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:16:30,733 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:18:01,020 [Worker-410: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:18:01,020 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:18:01,021 [Worker-410: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:18:01,022 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:19:23,483 [Worker-411: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:19:23,483 [Worker-411: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:19:23,485 [Worker-411: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:19:23,485 [Worker-411: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:19:46,927 [Worker-412: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp05_aop:sp05_aop:0.0.1-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\pom.xml.
+2023-07-27 17:19:46,970 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:19:46,971 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:19:46,972 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:19:46,973 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:20:06,081 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:20:06,082 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:20:06,082 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:20:06,083 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:20:12,067 [Worker-414: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:20:12,068 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:20:12,068 [Worker-414: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:20:12,069 [Worker-414: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:21:07,985 [Worker-411: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:21:07,985 [Worker-411: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:21:07,986 [Worker-411: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:21:07,986 [Worker-411: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:23:05,739 [Worker-415: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:23:05,740 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:23:05,740 [Worker-415: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:23:05,741 [Worker-415: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:23:35,887 [Worker-413: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:23:35,887 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:23:35,888 [Worker-413: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:23:35,888 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:23:41,895 [Worker-412: Building Project sp05_aop] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:23:41,896 [Worker-412: Building Project sp05_aop] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:23:41,896 [Worker-412: Building Project sp05_aop] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:23:41,897 [Worker-412: Building Project sp05_aop] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\test\resources
+2023-07-27 17:23:58,354 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-27 17:23:58,355 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\daebo_th2\9_Spring_myBatis\workspace\sp05_aop\src\main\resources
+2023-07-27 17:23:58,355 [Worker-412: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
