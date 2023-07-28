@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
+
+	<!-- user class object create -->
+	<bean id="messageBeanImpl" class="ex04.aop.MessageBeanImpl"/>
+	<bean id="bookBeanImpl" class="ex04.aop.BookBeanImpl"/>
+	<bean id="advice" class="ex04.aop.LoggingAdvice"/>
+	
+	
+	<!-- aop 설정 -->
+	<aop:config>
+		<aop:aspect id="aspect" ref="advice">
+			<aop:pointcut expression="execution( public void ex04.aop.*.*Hello(..) )" id="pointCut"/><!-- void + 매개변수 있어도 없어도 O -->
+<!-- 		<aop:pointcut expression="execution( public int ex04.aop.*.*Hello() )" id="pointCut"/> int + 매개변수 X-->
+<!-- 		<aop:pointcut expression="execution( public int ex04.aop.*.*Hello(..) )" id="pointCut"/> int-->
+			<aop:around method="around" pointcut-ref="pointCut"/>
+		</aop:aspect>
+	</aop:config>
+	
+</beans>

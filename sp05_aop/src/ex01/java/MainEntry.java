@@ -9,7 +9,7 @@ public class MainEntry {
 		System.out.println(c.add(10, 22));
 		System.out.println();
 		System.out.println(c.mul(3, 5)); 
-		System.out.println(c.mul(5, 7, 1)); 
+		System.out.println(c.mul(5, 7, 1));
 	
 	}
 }
