@@ -11,6 +11,7 @@
 		<config>src/ex04/aop/ctx.xml</config>
 		<config>src/ex05/aop/appCtx.xml</config>
 		<config>src/ex06/aop/annot/appCtx.xml</config>
+		<config>src/ex00/aop/annot/prc/appCtx.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
