@@ -61,14 +61,15 @@ public class UserDAO {
 			stmt = conn.createStatement();
 			rs = stmt.executeQuery("SELECT * FROM USERS");
 			
-			System.out.println("\nID \t  Name \t   PWD");
+			System.out.println("\nID \tName \tPWD");
+			System.out.println("=====================");
 			while( rs.next() ) {
 				String id = rs.getString("id");
 				String name = rs.getString("name");
 				String pwd = rs.getString("password");
 				System.out.println(id+"\t" + name +"\t"+ pwd);
 			} // while end
-			
+			System.out.println("=====================");
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
@@ -110,18 +111,25 @@ public class UserDAO {
 			
 		}
 	// update
-		public void update(UserVO vo) throws Exception{
-			Connection conn = connectionMaker.makeConnection();
-			String sql = "update users set name=?, pwd=? where id = ?";
-			PreparedStatement pstmt = conn.prepareStatement(sql);
-			
+		public void update(UserVO vo) throws Exception {
+		    Connection conn = connectionMaker.makeConnection();
+		    String sql = "UPDATE users SET name=?, password=? WHERE id=?";
+		    PreparedStatement pstmt = conn.prepareStatement(sql);
 
+		    pstmt.setString(1, vo.getName());
+		    pstmt.setString(2, vo.getPassword());
+		    pstmt.setString(3, vo.getId());
+
+		    int result = pstmt.executeUpdate();
+
+		    System.out.println(result + "개 업데이트 완료");
+
+		    pstmt.close();
+		    conn.close();
 		}
-
-
 	// menu
 	public void menu() {
-		System.out.println("선택하세요: \n1.Insert ");
-		System.out.println("2.SelectAll \n3.SelectById \n4.Update \n5.Delete ");
+		System.out.println("1.Insert \n2.SelectAll \n3.SelectById \n4.Update \n5.Delete \n0.exit ");
+		System.out.print("선택하세요 >>  ");
 	}
 }
