@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+ "http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+ <!-- mybatis-config에서 설정한 alias로 설정-->
+ 
+ <mapper namespace="dao">
+ 
+ 	<select id="selectAll" resultType="vo">
+ 		select * from mybatisBoard order by seq desc
+ 	</select>
+
+	<update id="update" parameterType="vo"><!-- where절의 seq type -->
+		update mybatisBoard 
+			set title=#{title}, writer=#{writer}, content=#{content}
+			where seq = #{seq}
+	</update>
+	<insert id="insert"  parameterType="vo">
+			insert into mybatisBoard(seq, title, writer, content, regdate, readcount )
+ 	 				values(board_seq.nextval, #{title} , #{writer}, #{content}, sysdate, 0)
+	</insert>
+	<delete id="delete" parameterType="vo">
+		delete from mybatisBoard where seq = #{seq}
+	</delete>
+ </mapper>
