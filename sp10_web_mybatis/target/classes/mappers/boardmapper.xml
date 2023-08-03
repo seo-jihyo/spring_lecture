@@ -6,7 +6,64 @@
  	<select id="selectAll" resultType="vo">
 		select * from mybatisBoard
  	</select>
+ 	
  	<insert id="insert" parameterType="vo">
  	insert into mybatisBoard (seq, title, writer, content, regdate, readcount) values (board_seq.nextval, #{title}, #{writer}, #{content}, sysdate, 0)
  	</insert>
+ 	
+ 	<select id="detailList" resultType="vo" parameterType="int"><!-- seq에 대한 글 parameterType: int -->
+ 	select * from mybatisBoard where seq = #{seq}
+ 	</select>
+ 	
+ 	<update id="update" parameterType="vo"><!-- 전체 변경 -->
+ 	update mybatisBoard
+ 		set title = #{title}, writer = #{writer}, content= #{content}
+ 		where seq= #{seq}
+ 	</update>
+ 	
+ 	<delete id="delete" parameterType="int">
+ 		delete from mybatisBoard where seq = #{seq}
+ 	</delete>
+ 	
+ 	<select id="selectSearch" parameterType="hashMap" resultType="vo">
+ 	select * from mybatisBoard 
+ 	
+ 	<if test = "column != null"> <!-- where writer like '%김%' -->
+ 		where ${column} like '%' || #{keyvalue} || '%'
+ 	</if>
+ 	</select>
+ 	
+ 	<select id="selectSearch2" parameterType="hashMap" resultType="vo">
+ 	select * from mybatisBoard 
+ 		<where>
+ 			<if test="title != null">
+ 				 title like '%' || #{keyvalue} || '%'
+ 			</if>
+ 			<if test="writer != null">
+ 				or writer like '%' || #{keyvalue} || '%'
+ 			</if>
+ 			<if test="content != null">
+ 				or content like '%' || #{keyvalue} || '%'
+ 			</if>
+ 		</where>
+ 	</select>
+ 	<!-- 
+ 	1. java 코드 
+ 	Map<String, String> map  = new HashMao<>();
+ 	map.put("column", column);  //column: title or writer or content
+ 	map.put("keyvalue", keyvalue) //keyvalue: 김연아
+ 	
+ 	2. 함수 호출시
+ 	session.selectList("dao.selectSeach", map);
+ 	
+ 	3. xml에서
+ 	parameterType = "hashMap"
+ 	
+ 	map key; : column, keyvalue
+ 	map value : #{column}, #{keyvalue}
+ 	
+ 	${column}: 컬럼명
+ 	
+ 	-->
+ 	
  </mapper>

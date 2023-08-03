@@ -6,6 +6,9 @@
 <head>
 <meta charset="UTF-8">
 <title> list.jsp List Page </title>
+<style type="text/css">
+	a{text-decoration: none;}
+</style>
 </head>
 <body>
 
@@ -16,24 +19,28 @@
       <th>번호</th>
       <th>제목</th>
       <th>작성자</th>
-      <th>내용</th>
       <th>작성날짜</th>
       <th>조회수</th>
+      <th>삭제</th>
    </tr>
    <c:forEach items="${ list }" var="list">
       <tr>
          <td>${ list.seq }</td>
-         <td>${ list.title }</td>
+         <td>
+	         <a href="board?cmd=detail&seq=${list.seq }">
+    	     	${ list.title }
+        	 </a>
+         </td>
          <td>${ list.writer }</td>
-         <td>${ list.content }</td>
          <td>${ list.regdate }</td>
          <td>${ list.readcount }</td>
+         <td> <a href="board?cmd=delete&seq=${list.seq}"}>삭제</a> </td>
       </tr>
    </c:forEach>
 </table>  <br>
 
-<!-- <a href="/WEB-INF/views/writeForm.jsp">글쓰기</a> -->
 <a href="javascript:location.href='board?cmd=writeForm'">글쓰기</a>
+<a href="board?cmd=search">검색</a>
 
 </body>
 </html>

@@ -35,4 +35,13 @@ public class BoardVO {
 	}
 
 
+	public BoardVO(int seq, String title, String writer, String content) {
+		super();
+		this.seq = seq;
+		this.title = title;
+		this.writer = writer;
+		this.content = content;
+	}
+
+
 }

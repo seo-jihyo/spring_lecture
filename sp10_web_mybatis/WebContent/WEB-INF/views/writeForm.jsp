@@ -7,7 +7,8 @@
 <title>writeForm.jsp  글쓰기 페이지</title>
 </head>
 <body>
-	<form action="../board?cmd=writeForm"   method="post">
+	<form action="board?cmd=write"  method="post"><!-- contoroller  -->
+		
 		제목 : <input type="text"  name="title"  required> <br> 
 		작성자 : <input type="text"  name="writer" required="required"> <br> 
 		내용 : <textarea rows="5" cols="50" required="required"  name="content">test!!!</textarea> <br> 
