@@ -43,7 +43,8 @@ public class BoardController extends HttpServlet {
 	}//service end
 
 	//search (단일)
-	private void search(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException { 
+	private void search(HttpServletRequest request, HttpServletResponse response) 
+			throws ServletException, IOException { 
 		String column = request.getParameter("column");
 		String keyvalue = request.getParameter("keyvalue");
 		
@@ -65,7 +66,8 @@ public class BoardController extends HttpServlet {
 	}
 	
 	//search2 (다중)
-	private void search2(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException { 
+	private void search2(HttpServletRequest request, HttpServletResponse response) 
+			throws ServletException, IOException { 
 		
 		String content = request.getParameter("content");
 		String writer = request.getParameter("writer");
