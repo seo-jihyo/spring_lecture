@@ -26,9 +26,10 @@ public class UserLoginSuccessHandler implements AuthenticationSuccessHandler {
 		request.setAttribute("msg", msg); //request 영역에 저장
 		
 		// 시작페이지로 포워딩
-		RequestDispatcher rd=request.getRequestDispatcher("/");
-		rd.forward(request, response); 
-		//response.sendRedirect(request.getContextPath()+ "/");
+//		RequestDispatcher rd=request.getRequestDispatcher("/");
+//		rd.forward(request, response); 		//forward는 요청한 파일 자체로 	
+
+		response.sendRedirect(request.getContextPath()+ "/"); //  /로 보냄
 	}
 
 }

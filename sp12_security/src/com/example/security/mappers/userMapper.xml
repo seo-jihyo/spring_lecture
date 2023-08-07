@@ -9,7 +9,7 @@
 		values (#{userid}, #{name}, #{passwd}, 1, #{authority})
 	</insert>
 
-	<select id="selectUser" resultType="java.util.Map"><!-- 반환값 map -->
+	<select id="selectUser" resultType="java.util.Map">
 		select userid as username, passwd as password, name, enabled, authority 
 		from users where userid = #{userid}
 	</select>

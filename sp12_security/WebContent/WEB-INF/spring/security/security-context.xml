@@ -28,9 +28,9 @@
       <intercept-url pattern="/**"
          access="hasAnyRole('ROLE_USER','ROLE_TEST','ROLE_ADMIN','ROLE_GUEST')" />
 
-      <!-- 로그인폼 -->
+      <!-- 로그인폼 --> <!-- login-processing-url="/user/login_check.do" = 자동체크 -->
       <form-login login-page="/user/login.do"
-         login-processing-url="/user/login_check.do"
+         login-processing-url="/user/login_check.do"    
          authentication-success-handler-ref="userLoginSuccessHandler"
          authentication-failure-handler-ref="userLoginFailureHandler"
          username-parameter="userid" password-parameter="passwd" />
