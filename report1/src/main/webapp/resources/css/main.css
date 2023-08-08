@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.loginDiv {display: grid; grid-template-rows: 60px 1fr;}
+.loginDiv .loginTitle {text-align: center; font-size: 50px; color: #005b23;}
+.loginDiv .loginForm {display: grid; grid-template-rows: repeat(3, 1fr); justify-content: center; margin-top: 30px;	gap: 20px;}
+.loginDiv .loginForm .loginInner {display: grid; grid-template-columns: 80px 1fr;}
+.loginDiv .loginForm .loginBtn {text-align: center;}
+.loginDiv .loginForm .loginBtn input {margin: 0px 20px;}
+
+.joinDiv {display: grid; grid-template-rows: 60px 1fr;}
+.joinDiv .joinTitle {text-align: center; font-size: 50px; color: #005b23;}
+.joinDiv .joinForm {display: grid; grid-template-rows: repeat(3, 1fr); justify-content: center; margin-top: 30px;	gap: 20px;}
+.joinDiv .joinForm .joinInner {display: grid; grid-template-columns: 80px 1fr;}
+.joinDiv .joinForm .joinBtn {text-align: center;}
+.joinDiv .joinForm .joinBtn input {margin: 0px 20px;}
