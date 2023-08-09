@@ -12826,3 +12826,22 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.oracle:oj
 2023-08-08 15:17:34,414 [Worker-640: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-08-08 15:17:34,414 [Worker-640: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-08-08 15:17:34,414 [Worker-640: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-08 15:17:34,414 [Worker-640: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-09 09:09:34,874 [Worker-947: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosa:myapp:1.0.0-BUILD-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\prc\pom.xml.
+2023-08-09 09:09:35,423 [Worker-947: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:35,423 [Worker-947: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-09 09:09:35,423 [Worker-947: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:35,428 [Worker-947: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-09 09:09:36,664 [Worker-944: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:36,664 [Worker-944: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-09 09:09:36,670 [Worker-944: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:36,671 [Worker-944: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-09 09:09:46,863 [Worker-947: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosa:myapp:1.0.0-BUILD-SNAPSHOT @ C:\daebo_th2\9_Spring_myBatis\workspace\sp12_prc\pom.xml.
+2023-08-09 09:09:46,970 [Worker-947: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:46,980 [Worker-947: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-09 09:09:46,982 [Worker-947: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:46,982 [Worker-947: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-09 09:09:48,298 [Worker-951: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:48,298 [Worker-951: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-09 09:09:48,298 [Worker-951: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-09 09:09:48,298 [Worker-951: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
