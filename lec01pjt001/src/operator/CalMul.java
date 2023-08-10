@@ -1,10 +1,10 @@
 package operator;
 
-public class CalAdd implements Calculator{
-	
+public class CalMul implements Calculator {
+
 	@Override
 	public int sum(int firstNum, int secondNum) {
-		return firstNum + secondNum;
+		return firstNum * secondNum;
 	}
-
+	
 }
