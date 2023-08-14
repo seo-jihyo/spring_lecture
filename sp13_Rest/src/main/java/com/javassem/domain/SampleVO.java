@@ -1,5 +1,9 @@
 package com.javassem.domain;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.databind.PropertyNamingStrategy;
+import com.fasterxml.jackson.databind.annotation.JsonNaming;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.Getter;
@@ -13,11 +17,18 @@ import lombok.Setter;
 //@Getter
 //@Setter
 @Data
+@JsonNaming(value=PropertyNamingStrategy.SnakeCaseStrategy.class)
 public class SampleVO {
 
 	private String name; 
 	private Integer age;        // pathValue    ,    path_value
 	private String message;
+	
+//	@JsonProperty("phone_number") 카멜로 되어있는 것을 스네이크 형식으로
+	private String phoneNumber;
+
+//	@JsonProperty("PINNUMBER")
+	private String PINNUMBER;
 	
 	/*
 	 * @Data = @Getter/@Setter + @ToString + @EqualsAndHashCode + @RequriedArgsConstructor

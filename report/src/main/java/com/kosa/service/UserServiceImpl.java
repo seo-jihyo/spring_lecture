@@ -17,4 +17,10 @@ public class UserServiceImpl implements UserService {
 		return sqlSession.insert("user.insertUser", map);
 	}
 
+	@Override
+	public int updateUsr(Map<String, String> map) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
