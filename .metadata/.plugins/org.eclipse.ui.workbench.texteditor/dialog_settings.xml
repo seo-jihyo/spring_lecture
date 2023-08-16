@@ -8,34 +8,34 @@
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value=""/>
+		<item key="selection" value="commons"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="commons"/>
+			<item value="file"/>
+			<item value="multi"/>
+			<item value="sourceDirectory"/>
+			<item value="sourcedire"/>
+			<item value="sourceDirec"/>
+			<item value="source"/>
+			<item value="board"/>
 			<item value="resour"/>
 			<item value="dispatch"/>
 			<item value="login-processing"/>
 			<item value="check."/>
 			<item value="sha"/>
-			<item value="board"/>
 			<item value="while"/>
 			<item value="join"/>
-			<item value="appli"/>
-			<item value="exe"/>
-			<item value="point"/>
-			<item value="package ex04.aaop;"/>
-			<item value="package ex01.java;"/>
-			<item value="&lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot;"/>
-			<item value="package quiz;"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="11"/>
+		<item key="DIALOG_X_ORIGIN" value="121"/>
 		<item key="DIALOG_Y_ORIGIN" value="429"/>
 		<item key="DIALOG_WIDTH" value="393"/>
 		<item key="DIALOG_HEIGHT" value="523"/>

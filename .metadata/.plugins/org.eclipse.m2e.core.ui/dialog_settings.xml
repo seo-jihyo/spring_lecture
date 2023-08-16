@@ -14,6 +14,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="sp15_ajax"/>
 			<item value="sp12__security"/>
 			<item value="sp12_security"/>
 			<item value="sp10_web_mybatis"/>
@@ -32,6 +33,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="sp15_ajax"/>
 			<item value="sp12__security"/>
 			<item value="sp12_security"/>
 			<item value="sp10_web_mybatis"/>

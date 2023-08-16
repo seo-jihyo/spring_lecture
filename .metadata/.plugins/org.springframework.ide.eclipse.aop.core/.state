@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="sp04_annotation"/>
-<aop-project name="sp01_spring"/>
 <aop-project name="sp12_security"/>
 <aop-project name="report1"/>
+<aop-project name="sp06_springMVC_basic"/>
+<aop-project name="sp11_spring_mybatis"/>
+<aop-project name="sp02_di2"/>
+<aop-project name="sp00_springMVC_DAO"/>
+<aop-project name="report"/>
+<aop-project name="sp03_di"/>
+<aop-project name="sp02_di"/>
+<aop-project name="sp13_RestBoard_4"/>
+<aop-project name="sp12_securityPrc"/>
+<aop-project name="sp13_boardrestful"/>
+<aop-project name="sp01_spring"/>
 <aop-project name="sp08_springMVC_DAO"/>
 <aop-project name="sp13_Rest"/>
 <aop-project name="sp06_springDAO"/>
-<aop-project name="sp06_springMVC_basic"/>
-<aop-project name="sp02_di2"/>
-<aop-project name="sp11_spring_mybatis"/>
 <aop-project name="sp12_SpringMVC_Basic11_Security"/>
-<aop-project name="sp00_springMVC_DAO"/>
+<aop-project name="sp15_ajax"/>
 <aop-project name="sp05_aop">
-<aspect-definition advice-class-name="ex06.aop.annot.LogApp" advice-method-name="loggerApp(org.aspectj.lang.ProceedingJoinPoint)" advice-type="AROUND" aspect-end-line-number="14" aspect-name="advice" aspect-start-line-number="14" factory-id="org.springframework.ide.eclipse.aop.core.annotationAspectDefinitionElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" pointcut-expression="pointCutMethod()" proxy-target-class="false">
-<aop-reference advice-type="AROUND" bean="1:BeansModel|2:sp05_aop|3:src/ex06/aop/annot/appCtx.xml|7:beans:9|8:student:16" bean-file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" bean-start-line="16" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" source="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{LogApp.java[LogApp~loggerApp~QProceedingJoinPoint;" source-start-line="34" target="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{Student.java[Student~getStudentInfo" target-start-line="10"/>
-<aop-reference advice-type="AROUND" bean="1:BeansModel|2:sp05_aop|3:src/ex06/aop/annot/appCtx.xml|7:beans:9|8:worker:19" bean-file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" bean-start-line="19" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" source="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{LogApp.java[LogApp~loggerApp~QProceedingJoinPoint;" source-start-line="34" target="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{Worker.java[Worker~getWorkerInfo" target-start-line="11"/>
-</aspect-definition>
 <aspect-definition advice-class-name="ex06.aop.annot.LogApp" advice-method-name="beforeAdvice" advice-type="BEFORE" aspect-end-line-number="14" aspect-name="advice" aspect-start-line-number="14" factory-id="org.springframework.ide.eclipse.aop.core.annotationAspectDefinitionElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" pointcut-expression="pointCutMethod()" proxy-target-class="false">
 <aop-reference advice-type="BEFORE" bean="1:BeansModel|2:sp05_aop|3:src/ex06/aop/annot/appCtx.xml|7:beans:9|8:student:16" bean-file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" bean-start-line="16" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" source="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{LogApp.java[LogApp~beforeAdvice" source-start-line="50" target="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{Student.java[Student~getStudentInfo" target-start-line="10"/>
 <aop-reference advice-type="BEFORE" bean="1:BeansModel|2:sp05_aop|3:src/ex06/aop/annot/appCtx.xml|7:beans:9|8:worker:19" bean-file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" bean-start-line="19" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" source="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{LogApp.java[LogApp~beforeAdvice" source-start-line="50" target="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{Worker.java[Worker~getWorkerInfo" target-start-line="11"/>
+</aspect-definition>
+<aspect-definition advice-class-name="ex06.aop.annot.LogApp" advice-method-name="loggerApp(org.aspectj.lang.ProceedingJoinPoint)" advice-type="AROUND" aspect-end-line-number="14" aspect-name="advice" aspect-start-line-number="14" factory-id="org.springframework.ide.eclipse.aop.core.annotationAspectDefinitionElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" pointcut-expression="pointCutMethod()" proxy-target-class="false">
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:sp05_aop|3:src/ex06/aop/annot/appCtx.xml|7:beans:9|8:student:16" bean-file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" bean-start-line="16" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" source="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{LogApp.java[LogApp~loggerApp~QProceedingJoinPoint;" source-start-line="34" target="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{Student.java[Student~getStudentInfo" target-start-line="10"/>
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:sp05_aop|3:src/ex06/aop/annot/appCtx.xml|7:beans:9|8:worker:19" bean-file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" bean-start-line="19" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/sp05_aop/src/ex06/aop/annot/appCtx.xml" source="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{LogApp.java[LogApp~loggerApp~QProceedingJoinPoint;" source-start-line="34" target="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex06.aop.annot{Worker.java[Worker~getWorkerInfo" target-start-line="11"/>
 </aspect-definition>
 <aspect-definition advice-class-name="ex04.aop.LoggingAdvice" advice-method-name="around" advice-type="AROUND" aspect-end-line-number="21" aspect-name="advice" aspect-start-line-number="21" factory-id="org.springframework.ide.eclipse.aop.core.beanAspectDefinitionElementFactory" file="/sp05_aop/src/ex04/aop/ctx.xml" pointcut-expression="execution( public void ex04.aop.*.*Hello(..) )" proxy-target-class="false">
 <aop-reference advice-type="AROUND" bean="1:BeansModel|2:sp05_aop|3:src/ex04/aop/ctx.xml|7:beans:7|8:messageBeanImpl:10" bean-file="/sp05_aop/src/ex04/aop/ctx.xml" bean-start-line="10" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/sp05_aop/src/ex04/aop/ctx.xml" source="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex04.aop{LoggingAdvice.java[LoggingAdvice~around~QProceedingJoinPoint;" source-start-line="12" target="=sp05_aop/src=/optional=/true=/=/maven.pomderived=/true=/&lt;ex04.aop{MessageBeanImpl.java[MessageBeanImpl~sayHello" target-start-line="6"/>
@@ -28,11 +35,9 @@
 </aspect-definition>
 </aop-project>
 <aop-project name="lec17Pjt001"/>
-<aop-project name="report"/>
 <aop-project name="sp12_TeamProject_Team3"/>
-<aop-project name="sp03_di"/>
-<aop-project name="sp13_RestBoard"/>
-<aop-project name="sp02_di"/>
+<aop-project name="Spring_ajax_json_07_MultiFileUpload"/>
+<aop-project name="SpringMVC_Basic19_Restful"/>
 <aop-project name="sp07_springMVC_DAO"/>
-<aop-project name="sp12_securityPrc"/>
+<aop-project name="login"/>
 </aop-reference-model>
