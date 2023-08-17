@@ -470,9 +470,8 @@
           <tags>persp.actionSet:ajelementCreation</tags>
           <tags>persp.newWizSC:ajaspectwizard</tags>
           <tags>persp.perspSC:org.eclipse.ajdt.ui.visualiser.AspectVisualizationPerspective</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_yqlA2jaZEe6-7_fy9sas7A" selectedElement="_yqlA2zaZEe6-7_fy9sas7A" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_yqlA2jaZEe6-7_fy9sas7A" selectedElement="_yqlA4DaZEe6-7_fy9sas7A" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_yqlA2zaZEe6-7_fy9sas7A" elementId="topLeft" containerData="2159" selectedElement="_yqlA3DaZEe6-7_fy9sas7A">
-              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_yqlA3DaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_yqlD_DaZEe6-7_fy9sas7A" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:General</tags>
@@ -598,6 +597,7 @@
     <sharedElements xsi:type="advanced:Area" xmi:id="_yqlDYzaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.editorss" selectedElement="_PBzpoDpwEe6Z_ZptbAuD6Q">
       <children xsi:type="basic:PartSashContainer" xmi:id="_PBzpoDpwEe6Z_ZptbAuD6Q" selectedElement="_tIy_kTj1Ee6Z_ZptbAuD6Q" horizontal="true">
         <children xsi:type="basic:PartStack" xmi:id="_tIy_kTj1Ee6Z_ZptbAuD6Q" elementId="PartStack@4c3f65b9" containerData="5000" selectedElement="_fRbS4DpwEe6Z_ZptbAuD6Q">
+          <tags>active</tags>
           <children xsi:type="basic:Part" xmi:id="_OnS34DpwEe6Z_ZptbAuD6Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="login/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
             <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;login/pom.xml&quot; title=&quot;login/pom.xml&quot; tooltip=&quot;login/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/login/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
             <tags>Editor</tags>
@@ -615,6 +615,8 @@
             <tags>Editor</tags>
             <tags>removeOnHide</tags>
             <tags>com.springsource.sts.config.ui.editors.SpringConfigEditor</tags>
+            <tags>active</tags>
+            <tags>activeOnClose</tags>
           </children>
           <children xsi:type="basic:Part" xmi:id="_gMZtYDpwEe6Z_ZptbAuD6Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="servlet-context.xml" iconURI="platform:/plugin/org.springframework.ide.eclipse.config.ui/icons/bean-config.png" closeable="true">
             <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;servlet-context.xml&quot; partName=&quot;servlet-context.xml&quot; title=&quot;servlet-context.xml&quot; tooltip=&quot;login/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/login/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -699,8 +701,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_yqlD_TaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -954,7 +954,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFAzaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_jxLP4DioEe6Z_ZptbAuD6Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_yqrMNzaZEe6-7_fy9sas7A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Dpft0DxCEe6RycWAmUnDfQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_yqrMNzaZEe6-7_fy9sas7A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFEDaZEe6-7_fy9sas7A" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -994,7 +994,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFbzaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_jxQvcDioEe6Z_ZptbAuD6Q" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_yqrL6DaZEe6-7_fy9sas7A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_DpiKEDxCEe6RycWAmUnDfQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_yqrL6DaZEe6-7_fy9sas7A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFfTaZEe6-7_fy9sas7A" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
