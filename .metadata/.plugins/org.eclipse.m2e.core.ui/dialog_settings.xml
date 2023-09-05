@@ -14,6 +14,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="WebSocket"/>
 			<item value="sp15_ajax"/>
 			<item value="sp12__security"/>
 			<item value="sp12_security"/>
@@ -28,11 +29,11 @@
 			<item value="sp_03_di"/>
 			<item value="ex02_di3"/>
 			<item value="sp02_di2"/>
-			<item value="sp02_di"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="WebSocket"/>
 			<item value="sp15_ajax"/>
 			<item value="sp12__security"/>
 			<item value="sp12_security"/>
@@ -47,7 +48,6 @@
 			<item value="sp_03_di"/>
 			<item value="ex02_di3"/>
 			<item value="sp02_di2"/>
-			<item value="sp02_di"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
