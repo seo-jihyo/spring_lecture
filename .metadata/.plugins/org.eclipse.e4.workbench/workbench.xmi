@@ -10,6 +10,7 @@
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1690163729868"/>
     <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;show_in_time/>"/>
     <tags>topLevel</tags>
+    <tags>shellMinimized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_yqlAkjaZEe6-7_fy9sas7A" selectedElement="_yqlAkzaZEe6-7_fy9sas7A" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_yqlAkzaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_yqlA2TaZEe6-7_fy9sas7A">
         <children xsi:type="advanced:Perspective" xmi:id="_yqlAlDaZEe6-7_fy9sas7A" elementId="com.springsource.sts.ide.perspective" selectedElement="_yqlAlTaZEe6-7_fy9sas7A" label="Spring" iconURI="platform:/plugin/org.springframework.ide.eclipse.ui/icons/full/obj16/spring_perspective.gif">
@@ -648,6 +649,7 @@
         </children>
         <children xsi:type="basic:PartStack" xmi:id="_iOabwUqzEe6M5uTc1t5LCA" elementId="PartStack@1bcb0cae" containerData="5000" selectedElement="_pm5sQEqzEe6M5uTc1t5LCA">
           <tags>active</tags>
+          <tags>noFocus</tags>
           <children xsi:type="basic:Part" xmi:id="_h7SrcEqzEe6M5uTc1t5LCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="web.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
             <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; partName=&quot;web.xml&quot; title=&quot;web.xml&quot; tooltip=&quot;WebSocket/src/main/webapp/WEB-INF/web.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/WebSocket/src/main/webapp/WEB-INF/web.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;755&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
             <tags>Editor</tags>
@@ -972,7 +974,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFAzaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_bYuBMEqxEe6M5uTc1t5LCA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_yqrMNzaZEe6-7_fy9sas7A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Dqy_4E0NEe6TCtqM2tHQzg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_yqrMNzaZEe6-7_fy9sas7A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFEDaZEe6-7_fy9sas7A" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1012,7 +1014,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFbzaZEe6-7_fy9sas7A" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_bYxEgEqxEe6M5uTc1t5LCA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_yqrL6DaZEe6-7_fy9sas7A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Dq1cIE0NEe6TCtqM2tHQzg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_yqrL6DaZEe6-7_fy9sas7A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_yqlFfTaZEe6-7_fy9sas7A" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
